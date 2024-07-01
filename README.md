@@ -1,0 +1,1 @@
+Hi this is a simple reddit bot I experimented and created to add a response to my messages in reddit. I was experimenting with packages and python and since I was somewhat active on reddit while trying to stream on twitch I created this bot to help me.
